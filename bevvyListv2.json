@@ -10,6 +10,17 @@
    "size": "375mL",
    "region": "Australia Queensland"
  },
+  {
+   "id": "WeidMannasfn",
+   "type": "Beer",
+   "subType": "",
+   "brand": "Weidmann",
+   "name": "German Beer",
+   "alcoholContent": 0.042,
+   "style": "Lager",
+   "size": "330mL",
+   "region": "Germany"
+ },
  {
    "id": "BeStPacifPaci",
    "type": "Beer",
